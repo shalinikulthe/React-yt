@@ -36,7 +36,7 @@ const App = () => {
     }
   ]
   return (
-    <div>
+    <div >
       <Section1 users={users} />
       <Section2 />
     </div>
